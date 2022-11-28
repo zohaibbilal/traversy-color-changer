@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+
+.title{
+display: flex;
+justify-content: center;
+}
+
+.btn-box{
+    display: flex;
+justify-content: center;
+}
+
+.colorboard{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
